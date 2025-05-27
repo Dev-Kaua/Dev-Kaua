@@ -49,10 +49,10 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
-| 🧟‍♂️ [Zombie Survival API](https://github.com/Dev-Kaua/zombie-survival-api) | API backend robusta simulando uma infestação zumbi com armas, personagens e sobrevivência | Java, Spring Boot, PostgreSQL |
-| 🐶 [Projeto PetShop](https://github.com/Dev-Kaua/petshop-poo-java) | Sistema de petshop interativo via terminal com foco total em POO | Java puro |
-| 🧩 [Sudoku Game](https://github.com/Dev-Kaua/sudoku-java) | Jogo Sudoku com interface gráfica e interação dinâmica | Java, AWT, Swing |
-| 🏦 [Banco Digital](https://github.com/Dev-Kaua/banco-poo) | Simulação de banco com regras reais, diferentes tipos de conta e menus | Java POO |
+| 🧟‍♂️ [Zombie Survival API]([https://github.com/Dev-Kaua/zombie-survival-api](https://github.com/Dev-Kaua/Desenvolvimento-de-APIs/tree/main/zombie-survival-api)) | API backend robusta simulando uma infestação zumbi com armas, personagens e sobrevivência | Java, Spring Boot, PostgreSQL |
+| 🐶 [Projeto PetShop](https://github.com/Dev-Kaua/Programa-o-orientada-a-objetos/tree/main/Projetos/Projeto%20PetShop) | Sistema de petshop interativo via terminal com foco total em POO | Java puro |
+| 🧩 [Sudoku Game](https://github.com/Dev-Kaua/Programa-o-orientada-a-objetos/tree/main/Projetos/Sudoku) | Jogo Sudoku com interface gráfica e interação dinâmica | Java, AWT, Swing |
+| 🏦 [Banco Digital]([https://github.com/Dev-Kaua/banco-poo](https://github.com/Dev-Kaua/Programa-o-orientada-a-objetos/tree/main/Projetos/Criando%20um%20Banco%20Digital%20com%20Java%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos)) | Simulação de banco com regras reais, diferentes tipos de conta e menus | Java POO |
 
 > Mais projetos no meu repositório 👉 [Explore aqui](https://github.com/Dev-Kaua?tab=repositories)
 
