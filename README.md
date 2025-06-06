@@ -11,10 +11,10 @@
 ## 🚀 Sobre mim
 
 - 👨‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas (IFSC)**
-- 📚 Atualmente finalizando o bootcamp **Java Cloud Native (DIO + Bradesco)**
-- 💡 Curioso por **backend**, **cloud**, **alta performance** e **oportunidades internacionais**
-- 🌎 Morei na Austrália em 2018 🇦🇺 — inglês fluente e mente global
-- 🧠 Estudo de 6 a 8h por dia focado em evolução técnica
+- 📚 Atualmente estudando arquitetura de microsserviços com spring e mensageria rabbitMQ pelo curso **Microserviços e mensageria com Spring Cloud e Docker - Udemy**
+- 💡 Curioso por **backend**, **arquitetura de sistemas**, **cloud**, **alta performance** e **oportunidades internacionais**
+- 🌎 Morei na Austrália em 2018 🇦🇺 — inglês avançado e mente global
+- 🧠 Estudo de 6 a 8h por dia + curso superior, sempre focado em evolução técnica
 
 ---
 
@@ -37,9 +37,11 @@
 ## 🛠️ Ferramentas que uso no dia a dia
 
 - IntelliJ IDEA
+- Spring boot
 - Postman
 - Studio 3T
 - Git e GitHub
+- MySQL
 - Docker
 - VS Code (quando rola algo frontend)
 
@@ -60,7 +62,7 @@
 
 ## 📬 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kauã-reis-rodrigues-730219357/) — Vamos nos conectar!
+- 💼 [LinkedIn](https://www.linkedin.com/in/kauã-reis-rodrigues-730219357) — Vamos nos conectar!
 - 📁 [Meu GitHub](https://github.com/Dev-Kaua)
 - ✉️ contato: **kaua732153@gmail.com**
 
@@ -69,9 +71,9 @@
 ## ⚡ Foco total até o final de 2025:
 
 ```yaml
-🧱 Consolidar domínio de Java + Spring Boot
+🧱 Consolidar domínio de Java + Spring Boot + arquitetura de microserviços
 ☁️ Aprender mais sobre deploy em nuvem (AWS, Azure ou OpenShift) e integração com banco de dados
-🌍 Buscar vagas internacionais ou PJ remotas/hibridas/presenciais
+🌍 Buscar oportunidades de estágio ou Junior remotas/hibridas/presenciais
 🚨 Manter projetos atualizados e LinkedIn afiado
 🚀 Rumo ao topo com aprendizado constante e evolução diária!
 
