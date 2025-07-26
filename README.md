@@ -14,7 +14,7 @@
 - 📚 Atualmente estudando arquitetura de microsserviços com spring e mensageria rabbitMQ pelo curso **Microserviços e mensageria com Spring Cloud e Docker - Udemy**
 - 💡 Curioso por **backend**, **arquitetura de sistemas**, **cloud**, **alta performance** e **oportunidades internacionais**
 - 🌎 Morei na Austrália em 2018 🇦🇺 — inglês avançado e mente global
-- 🧠 Estudo de 6 a 8h por dia + curso superior, sempre focado em evolução técnica
+- 🧠 Estudo constante todos os dias + curso superior, sempre focado em evolução técnica
 
 ---
 
