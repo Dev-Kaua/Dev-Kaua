@@ -14,7 +14,7 @@
 - 🎓 Participante do **T-Academy** — Formação corporativa com foco em Java, APIs REST, Cloud Computing, DevOps, ITIL, Banco de Dados, ServiceNow e Jira
 - 📚 Finalizei o **Bootcamp Java Cloud Native (Bradesco/DIO)** com foco em microsserviços, mensageria e cloud nativa
 - 💡 Curioso por **backend**, **arquitetura de sistemas**, **cloud**, **alta performance** e **oportunidades internacionais**
-- 🌎 Morei na Austrália em 2018 🇦🇺 — inglês avançado e mente global
+- 🌎 Morei na Austrália em 2018 — inglês intermediário-avançado
 - 🧠 Estudo constante todos os dias + projetos práticos no T-Academy e faculdade
 
 ---
