@@ -3,12 +3,12 @@
 <p align="center">
   🎯 Desenvolvedor Backend em formação | Foco em Java e arquitetura de microsserviços<br>
   💻 Participante do programa corporativo <b>T-Academy</b> (ProWay & T-Systems) - 272h de formação prática<br>
-  🚀 Objetivo: Transformar estudo em entrega de valor real desde o primeiro dia!
+  🎯 Objetivo: Transformar estudo em entrega de valor real desde o primeiro dia!
 </p>
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 - 👨‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas (IFSC)**
 - 🎓 Participante do **T-Academy** — Formação corporativa com foco em Java, APIs REST, Cloud Computing, DevOps, ITIL, Banco de Dados, ServiceNow e Jira
